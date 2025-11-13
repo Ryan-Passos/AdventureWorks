@@ -25,7 +25,7 @@ Nesta etapa, os dados tratados foram utilizados para criar um dashboard interati
   - Top 10 Produtos Mais Vendidos
   - Evolução Mensal das Vendas
 
-## Tecnologias Utilizadas
+## Bibliotecas Utilizadas
 
 - Python 3.10+
 - Pandas – Manipulação e tratamento dos dados
