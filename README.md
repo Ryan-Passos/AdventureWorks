@@ -6,7 +6,7 @@ O projeto foi dividido em duas partes:
 
 Nesta etapa, foi feita a manipulação e análise dos dados utilizando Python e bibliotecas de data science. Foram realizadas as seguintes etapas:
 
-- Conexão e consulta ao banco de dados SQL Server (AdventureWorks)
+- Extração do banco de dados SQL Server (AdventureWorks)
 - Limpeza e transformação dos dados com Pandas
 - Agrupamentos por região, produto e período
 - Criação de gráficos com Matplotlib
