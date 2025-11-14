@@ -28,9 +28,9 @@ Nesta etapa, os dados tratados foram utilizados para criar um dashboard interati
 ## Bibliotecas Utilizadas
 
 - Python 3.10+
-- Pandas – Manipulação e tratamento dos dados
-- Matplotlib / Seaborn / Plotly – Visualizações de dados
-- Streamlit – Criação do dashboard interativo
+- Pandas – Manipulação e tratamento dos dados (pip install pandas)
+- Matplotlib / Seaborn / Plotly – Visualizações de dados (pip install matplotlib seaborn plotly)
+- Streamlit – Criação do dashboard interativo (pip install streamlit
 - CSS – Estilização do dashboard
 - SQL Server – Origem dos dados (AdventureWorks)
 
