@@ -9,7 +9,7 @@ Nesta etapa, foi feita a manipulação e análise dos dados utilizando Python e 
 - Conexão e consulta ao banco de dados SQL Server (AdventureWorks)
 - Limpeza e transformação dos dados com Pandas
 - Agrupamentos por região, produto e período
-- Criação de gráficos com Matplotlib e Plotly
+- Criação de gráficos com Matplotlib
 
 ## Parte 2 — Dashboard Interativo
 
@@ -43,6 +43,27 @@ O projeto possui duas partes: o notebook de análise e o dashboard interativo. S
 - Baixe o arquivo `dataset.xlsx` e o notebook `Hexagon - Manipulação de Dados.ipynb`
 - Abra o notebook no Google Colab ou no Jupyter Notebook
 - Instale as bibliotecas necessárias:
-
 ```bash
 pip install pandas matplotlib seaborn plotly openpyxl
+```
+
+### 2. Visualizar Dashboard
+
+- No Terminal do Git digite:
+```bash
+git clone https://github.com/Ryan-Passos/AdventureWorks.git
+```
+
+- Tenha previamente o Python instalado na sua máquina
+
+- Instale as seguintes bibliotecas:
+```bash
+pip install plotly
+pip install openpyxl
+python -m pip install streamlit
+```
+
+- No terminal, execute o dashboard com:
+```bash
+streamlit run app.py
+```
